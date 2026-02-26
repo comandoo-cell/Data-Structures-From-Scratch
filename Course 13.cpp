@@ -1,5 +1,3 @@
-﻿//ProgrammingAdvices.com
-//Mohammed Abu-Hadhoud
 
 #include <iostream>
 #include "clsMyStackArr.h"
@@ -65,5 +63,6 @@ int main()
     MyStack.Print();
 
     system("pause>0");
+
 
 }
